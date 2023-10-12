@@ -1,2 +1,2 @@
 # Certificates
-Repo contains all the certificates
+This repository contain all my certificates and awards!
